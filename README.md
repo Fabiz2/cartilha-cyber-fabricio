@@ -1,102 +1,76 @@
-# 🛡️ Cartilha de CyberSecurity – Projeto Final
-> **Autor(a): [Fabricio Conceição Silva]**  
-> **Curso de ENGENHARIA DA COMPUTAÇÃO – Professor Rodrigo Moreira**
+# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
----
+[View the English list](/free-programming-books.md)
 
-> ⚠️ Esta cartilha foi criada como atividade final do semestre para consolidar os conhecimentos sobre segurança da informação e servir como recurso público de aprendizado e conscientização.
+## Intro
+This list initially was a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by George Stocker. Now updated, with dead links gone and new content.
 
----
+Moved to GitHub for collaborative updating.
 
-## 🔰 Introdução
+### How To Contribute
 
-Esta cartilha é um guia prático e introdutório sobre segurança digital. Criada para estudantes, profissionais iniciantes e qualquer pessoa interessada em se proteger no ambiente online, ela apresenta conceitos, ferramentas e boas práticas essenciais.
+Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
-🔍 **Objetivo:** facilitar o acesso ao conhecimento de segurança digital de forma simples, acessível e aplicada.
+### How to Share
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/vhf/free-programming-books%0AFree%20Programming%20Books)
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/vhf/free-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
++ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/vhf/free-programming-books)
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/vhf/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 
----
 
-## 🔐 Fundamentos da Segurança da Informação
+### In Other Spoken Languages
++ Arabic: [github](/free-programming-books-ar.md)
++ Azerbaijan: [github](/free-programming-books-az.md)
++ Bulgarian: [github](/free-programming-books-bg.md)
++ Chinese: [github](/free-programming-books-zh.md)
++ Czech: [github](/free-programming-books-cs.md)
++ English: [github](/free-programming-books.md)
++ French: [github](/free-programming-books-fr.md)
++ German: [github](/free-programming-books-de.md)
++ Greek: [github](/free-programming-books-gr.md)
++ Hungarian: [github](/free-programming-books-hu.md)
++ Indonesian: [github](/free-programming-books-id.md)
++ Italian: [github](/free-programming-books-it.md)
++ Japanese: [github](/free-programming-books-ja.md)
++ Korean: [github](/free-programming-books-ko.md)
++ Persian/Farsi (Iran): [github](/free-programming-books-fa_IR.md)
++ Polish: [github](/free-programming-books-pl.md)
++ Portuguese (Brazil): [github](/free-programming-books-pt_BR.md)
++ Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
++ Romanian (Romania): [github](/free-programming-books-ro.md)
++ Russian: [github](/free-programming-books-ru.md)
++ Slovak: [github](/free-programming-books-sk.md)
++ Spanish: [github](/free-programming-books-es.md)
++ Swedish: [github](/free-programming-books-se.md)
++ Turkish: [github](/free-programming-books-tr.md)
++ Ukrainian: [github](/free-programming-books-ua.md)
 
-- **Dados digitais**: são ativos valiosos, muitas vezes mais importantes que o próprio hardware.
-- **Tríade CID:**
-  - **Confidencialidade** – proteger contra acessos indevidos.
-  - **Integridade** – garantir que as informações não sejam alteradas indevidamente.
-  - **Disponibilidade** – garantir que os dados estejam acessíveis quando necessário.
 
-📌 *Exemplo prático*: prontuários médicos, sistemas bancários e notas fiscais digitais dependem dos três pilares para garantir segurança e confiança.
+### Free Online Courses
++ [Free Online Courses](/free-courses-en.md)
 
----
 
-## ⚖️ Leis e Normas
+### Interactive Programming Resources
++ [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)
 
-- **LGPD (Lei Geral de Proteção de Dados)** – Define como dados pessoais devem ser tratados no Brasil.
-- **Marco Civil da Internet** – Regula os direitos e deveres de usuários e provedores no Brasil.
-- **ISO/IEC 27001** – Norma internacional para gestão da segurança da informação.
-- **NIST** – Framework de segurança dos EUA com boas práticas amplamente utilizadas.
 
-📌 *Cenário*: Se uma empresa perde dados pessoais de clientes, ela pode ser penalizada com base na LGPD.
+### JavaScript Frameworks and Resources
++ [Free JavaScript frameworks resources and tutorials - English](/javascript-frameworks-resources.md)
++ [Free JavaScript frameworks resources and tutorials - Portuguese (Brazil)](/javascript-frameworks-resources-pt_BR.md)
 
----
 
-## 💣 Tipos de Ataques Cibernéticos
+### Problem Sets and Competitive Programming
++ [Problem Sets](/problem-sets-competitive-programming.md)
 
-| Tipo de Ataque | O que é? | Caso Real | Como se proteger |
-|----------------|----------|-----------|------------------|
-| Phishing       | Fraude por e-mail ou link falso | Netflix falso | Nunca clicar em links suspeitos |
-| Ransomware     | Sequestro de dados com pedido de resgate | Ataque à Renner | Backup, antivírus e VPN |
-| DDoS           | Ataque para derrubar sistemas | STJ 2020 | Uso de mitigação, firewall e CDN |
 
----
+### Podcast - Screencast
+Free Podcasts and Screencasts:
 
-## 🛠️ Ferramentas de Segurança
++ Czech: [github](/free-podcasts-screencasts-cs.md)
++ English: [github](/free-podcasts-screencasts-en.md)
++ Portuguese (Brazil): [github](/free-podcasts-screencasts-pt_BR.md)
++ Russian: [github](/free-podcasts-screencasts-ru.md)
 
-- **Nmap** – Descoberta de portas e serviços em redes
-- **Wireshark** – Captura e análise de pacotes de rede
-- **Shodan** – Buscador de dispositivos conectados à internet
-- **VirusTotal** – Escaneia arquivos e links com múltiplos antivírus
-- **ProtonVPN** – VPN gratuita para navegação segura
 
-💡 *Dica:* Use prints ou exemplos de uso para enriquecer esse tópico.
-
----
-
-## 💻 Comandos CMD úteis
-
-ipconfig /all        # Mostra detalhes da rede local
-ping 8.8.8.8         # Verifica conexão com a internet
-tracert google.com   # Rastreia o caminho até um site
-netstat -an          # Lista conexões abertas
-whoami               # Exibe o usuário logado
-systeminfo           # Detalhes sobre o sistema operacional
-
-## 🌐 Sites recomendados
-Site	Função
-haveibeenpwned.com	Verifica se seu e-mail foi vazado
-shodan.io	Busca por dispositivos vulneráveis
-thedfirreport.com	Relatórios técnicos de incidentes reais
-cybermap.kaspersky.com	Mapa de ataques em tempo real
-virustotal.com	Escaneia arquivos e links com múltiplos antivírus
-
-## ✅ Boas Práticas de Segurança
-Utilize senhas longas, únicas e complexas
-
-Ative autenticação em dois fatores (2FA)
-
-Mantenha o sistema e softwares atualizados
-
-Nunca clique em links ou anexos de remetentes desconhecidos
-
-Faça backup regularmente
-
-Use VPN em redes públicas
-
-## 🎁 Conteúdo Extra (opcional)
-[Vídeo] Como funciona um ataque de engenharia social – YouTube
-
-[Curso gratuito] Introdução à Cibersegurança – Cisco Networking Academy
-
-[Podcast] Segurança Digital em Debate – Spotify
-
-## 👨‍🏫 Sobre este projeto
-Esta cartilha foi desenvolvida como atividade final da disciplina Segurança da Informação, ministrada pelo Prof. Rodrigo Moreira. Seu objetivo é transformar o conhecimento em um recurso acessível e público.
+### Programming Playgrounds
++ [Free Programming Playgrounds](/free-programming-playgrounds.md)
